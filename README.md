@@ -16,7 +16,7 @@ The YouTube Video Downloader is a fast, secure, and user-friendly application th
 3. **Download**: Simply hit 'Download' and let the app do the rest! The file will be saved locally for offline use.
 
 ## Installation
-To use the YouTube Video Downloader, download the latest release from the [Official Website](https://boudy-ytdownloader.netlify.app/) page.
+To use the YouTube Video Downloader, download the latest release from the [Official Website](https://boudy-ytdownloader.netlify.app/) page or from the latest release here.
 
 ## Technology Stack
 - **Frontend**: HTML, CSS, JavaScript
