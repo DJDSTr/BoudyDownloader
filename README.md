@@ -12,8 +12,8 @@ The YouTube Video Downloader is a fast, secure, and user-friendly application th
 
 ## How to Use
 1. **Input the Video URL**: Copy and paste the desired YouTube video URL into the app’s input field.
-2. **Choose Format and Quality**: Select from available formats and resolutions based on your preference.
-3. **Download**: Simply hit 'Download' and let the app do the rest! The file will be saved locally for offline use.
+2. ** Format and Quality**: The application selects the best Format and Quality automatically.
+3. **Download**: Simply hit 'Download' and let the app do the rest! The file will be saved locally for offline use. (You can see the whole downloading process in the terminal modal at top left).
 
 ## Installation
 To use the YouTube Video Downloader, download the latest release from the [Official Website](https://boudy-ytdownloader.netlify.app/) page.
