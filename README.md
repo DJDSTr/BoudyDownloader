@@ -25,7 +25,7 @@ To use the YouTube Video Downloader, download the latest release from the [Offic
 - **Supported Formats**: Utilizes libraries to support a variety of formats and resolutions for video/audio downloads.
 
 ## Contributions
-Contributions are welcome! this project is still in beta, If you’d like to improve the downloader, add new features, or fix bugs, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! If you’d like to improve the downloader, add new features, or fix bugs, feel free to fork the repository, make changes, and submit a pull request.
 
 ## Notes
 This application supports downloads up to 8K resolution. If you encounter issues opening 4K or 8K .mp4 files, it may be due to limitations in your current video player. For high-resolution playback, [VLC Media Player](https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe#google_vignette) is recommended, as it supports up to 8K video and is a trusted, safe option. (Note: This is simply a recommendation; VLC is not affiliated with this application.)
