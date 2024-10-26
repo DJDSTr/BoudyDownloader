@@ -5,10 +5,8 @@ The YouTube Video Downloader is a fast, secure, and user-friendly application th
 
 ## Features
 - **High-Quality Downloads**: Select and download videos in resolutions from 480p to 1080p, with additional options for 2K and 4K, depending on the availability of the source video.
-- **Multiple File Formats**: Convert videos to formats including MP4, MP3 (audio-only), AVI, and more, allowing users to choose the best format for their needs.
 - **User-Friendly Interface**: A straightforward, intuitive layout makes it easy to navigate through the app and download content with minimal effort.
 - **Quick and Secure**: Our downloader ensures fast download speeds without compromising security, adhering to best practices for safe data handling.
-- **Cross-Platform Compatibility**: Works seamlessly on Windows, MacOS, and Linux environments.
 
 ## How to Use
 1. **Input the Video URL**: Copy and paste the desired YouTube video URL into the app’s input field.
