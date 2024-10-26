@@ -1,4 +1,4 @@
-# YouTube Video Downloader
+# YouTube Video Downloader (BETA)
 
 ## Overview
 The YouTube Video Downloader is a fast, secure, and user-friendly application that allows users to download videos from YouTube in high-quality formats, ensuring easy offline access to their favorite content. Built with a focus on performance and simplicity, this tool provides seamless downloading and supports a variety of formats. The project is designed to be both accessible and efficient, making it an ideal solution for anyone looking to save YouTube videos for offline viewing.
@@ -25,7 +25,7 @@ To use the YouTube Video Downloader, download the latest release from the [Offic
 - **Supported Formats**: Utilizes libraries to support a variety of formats and resolutions for video/audio downloads.
 
 ## Contributions
-Contributions are welcome! If you’d like to improve the downloader, add new features, or fix bugs, feel free to fork the repository, make changes, and submit a pull request.
+Contributions are welcome! this project is still in beta, If you’d like to improve the downloader, add new features, or fix bugs, feel free to fork the repository, make changes, and submit a pull request.
 
 ## Notes
 This application supports downloads up to 8K resolution. If you encounter issues opening 4K or 8K .mp4 files, it may be due to limitations in your current video player. For high-resolution playback, [VLC Media Player](https://get.videolan.org/vlc/3.0.21/win64/vlc-3.0.21-win64.exe#google_vignette) is recommended, as it supports up to 8K video and is a trusted, safe option. (Note: This is simply a recommendation; VLC is not affiliated with this application.)
