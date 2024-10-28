@@ -16,8 +16,8 @@ The YouTube Video Downloader is a fast, secure, and user-friendly application th
 5. **Choosing where to save** You can choose where the application should save the exported video by accessing the "save at" modal at the top right the default directory is in your downloads.
 
 ## Installation
-To use the YouTube Video Downloader, download the latest release from the [Official Website](https://boudy-ytdownloader.netlify.app/) page.
-(or from the latest release here)
+To use the YouTube Video Downloader, download the latest release from the [Releases](https://github.com/DJDSTr/BoudyDownloader/releases/tag/v1.0) or our official page [here](https://boudy-ytdownloader.netlify.app/) . Once downloaded, run the installer and follow the on-screen instructions.
+
 
 ## Technology Stack
 - **Frontend**: HTML, CSS, JavaScript
